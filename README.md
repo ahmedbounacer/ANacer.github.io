@@ -1,25 +1,25 @@
-# 📊 Ahmed Nacer | Data Analyst & Strategic Planner
+# Ahmed Nacer | Data Analyst & Strategic Planner
 
 <div align="center">
   
 ![Banner](https://via.placeholder.com/1200x300/0f172a/FFFFFF?text=DATA+DRIVEN+DECISIONS+%7C+STRATEGIC+PLANNING)
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votrenom)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.email@domain.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-bounacer/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmednacer095@gmail.com>)
 [![Tableau Public](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/votrenom)
 
 </div>
 
-## 👨‍💻 À Propos
+## À Propos
 
 Data Analyst et Planificateur Stratégique avec **+X années** d'expérience dans l'analyse de données business, la modélisation prédictive et l'élaboration de plans stratégiques basés sur des données quantitatives. Passionné par la transformation de données complexes en insights actionnables pour l'optimisation des performances et la prise de décision éclairée.
 
-**📍 Localisation :** CasaBlanca, Morroco  
-**🏢 Situation :** Planned at JESA]  
-**🎯 Domaines :** Retail Analytics • Supply Chain • Finance • Marketing Analytics
+**Localisation :** CasaBlanca, Morroco  
+**Situation :** Planned at JESA  
+**Domaines :** Retail Analytics • Supply Chain • Finance • Marketing Analytics
 
-## 🛠️ Stack Technique
+##  Stack Technique
 
 ### **Analytics & Programmation**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -48,28 +48,28 @@ Data Analyst et Planificateur Stratégique avec **+X années** d'expérience dan
 ![Agile](https://img.shields.io/badge/Agile-009688?style=flat-square&logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrum&logoColor=white)
 
-## 📈 Projets Récents
+## Projets Récents
 
-### **🔍 [Nom du Projet 1] - Analyse de Performance Retail**
+### ** [Nom du Projet 1] - Analyse de Performance Retail**
 *Analyse des ventes multi-canaux et optimisation du réassortiment*
 - **Technos :** Python (Pandas, Scikit-learn), SQL, Power BI
 - **Résultats :** +15% de taux de service, -12% de ruptures
 - [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/votreuser/projet1)
 - [![Dashboard](https://img.shields.io/badge/Dashboard-4285F4?style=flat-square&logo=googleanalytics&logoColor=white)](https://lien-dashboard.com)
 
-### **📊 [Nom du Projet 2] - Forecasting Budgetaire**
+### ** [Nom du Projet 2] - Forecasting Budgetaire**
 *Modèle prédictif pour le planning budgétaire trimestriel*
 - **Technos :** R (forecast, tidyverse), Excel Power Pivot, Tableau
 - **Résultats :** Précision de 94% sur 6 mois, réduction délais de 40%
 - [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/votreuser/projet2)
 
-### **🚚 [Nom du Projet 3] - Optimisation Supply Chain**
+### ** [Nom du Projet 3] - Optimisation Supply Chain**
 *Analyse des flux logistiques et planification des stocks*
 - **Technos :** Python (OR-Tools), SQL, Power BI
 - **Résultats :** -18% de coûts logistiques, +25% de rotation stocks
 - [![Notebook](https://img.shields.io/badge/Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://github.com/votreuser/projet3)
 
-## 📊 Statistiques GitHub
+##  Statistiques GitHub
 
 <div align="center">
   
@@ -78,14 +78,14 @@ Data Analyst et Planificateur Stratégique avec **+X années** d'expérience dan
 
 </div>
 
-## 📝 Certifications
+##  Certifications
 
 - **Microsoft Certified: Data Analyst Associate** (Power BI)
 - **Google Data Analytics Professional Certificate**
 - **Tableau Desktop Specialist**
 - **SAS Certified Statistical Business Analyst**
 
-## 🎓 Formation
+##  Formation
 
 **Master en Data Science & Analytics**  
 *Université Paris-Dauphine* - 2018-2020
@@ -93,12 +93,12 @@ Data Analyst et Planificateur Stratégique avec **+X années** d'expérience dan
 **Licence en Économétrie**  
 *Université Panthéon-Sorbonne* - 2015-2018
 
-## 📫 Contact
+##  Contact
 
 <div align="center">
   
 ### **Disponible pour des opportunités en :**
-📈 Business Analytics • 📊 Data Analysis • 🗺️ Strategic Planning • 🎯 Performance Management
+ Business Analytics •  Data Analysis •  Strategic Planning •  Performance Management
 
 [![LinkedIn](https://img.shields.io/badge/Connect_sur_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-bounacer/)
 [![Email](https://img.shields.io/badge/Envoyer_un_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmednacer095@gmail.com)
