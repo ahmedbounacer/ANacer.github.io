@@ -2,8 +2,8 @@
 
 
 :root {
-  --first-color: #2bbff0;
-  --first-color-dark: #1e9fc7;
+  --first-color: #8B0000;        /* Rouge bordeaux principal */
+  --first-color-dark: #660000;    /* Version plus foncée du bordeaux */
   --black-color: #000000;
   --black-color-light: #111111;
   --white-color: #ffffff;
@@ -1369,3 +1369,4 @@ img {
     height: 550px;
   }
 }
+
