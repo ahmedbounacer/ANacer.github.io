@@ -13,7 +13,7 @@
 
 ## À Propos
 
-Data Analyst et Planificateur Stratégique avec **+X années** d'expérience dans l'analyse de données business, la modélisation prédictive et l'élaboration de plans stratégiques basés sur des données quantitatives. Passionné par la transformation de données complexes en insights actionnables pour l'optimisation des performances et la prise de décision éclairée.
+Data Analyst et Planificateur Stratégique avec **+2 ans** d'expérience dans l'analyse de données business, la modélisation prédictive et l'élaboration de plans stratégiques basés sur des données quantitatives. Passionné par la transformation de données complexes en insights actionnables pour l'optimisation des performances et la prise de décision éclairée.
 
 **Localisation :** CasaBlanca, Morroco  
 **Situation :** Planned at JESA  
