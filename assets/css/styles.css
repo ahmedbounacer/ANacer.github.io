@@ -336,17 +336,42 @@ img {
   display: block;
 }
 
+/* Option 1: Modifier la classe existante */
 .home__title {
-  font-size: 2rem; 
-  margin-bottom: 0.5rem; 
-  color: var(--white-color);
+    color: #e63946 !important; /* Rouge bordeaux */
+    font-size: 2.5rem !important; /* Taille réduite */
+    font-weight: 600;
+    margin-bottom: 0.5rem;
 }
 
-.home__skill {
-  font-size: 1rem; 
-  color: var(--gray-color);
-  margin-bottom: 1rem; 
-  display: block;
+/* Option 2: Ajouter une classe spécifique */
+.custom-name {
+    color: #e63946; /* Rouge bordeaux */
+    font-size: 2.5rem; /* Taille réduite */
+    font-weight: 600;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Option 3: Pour une meilleure responsivité */
+.home__title {
+    color: #e63946;
+    font-size: clamp(2rem, 5vw, 3rem); /* Minimum 2rem, maximum 3rem */
+    font-weight: 600;
+    line-height: 1.2;
+    margin: 0.5rem 0;
+}
+
+/* Pour le mode mobile */
+@media screen and (max-width: 768px) {
+    .home__title {
+        font-size: 2rem !important;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .home__title {
+        font-size: 1.75rem !important;
+    }
 }
 
 .home__button {
@@ -1369,4 +1394,5 @@ img {
     height: 550px;
   }
 }
+
 
