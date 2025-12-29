@@ -234,7 +234,92 @@ img {
   display: block;
   height: 2rem;
 }
+/* Animation du nom - version simple */
+.home__title.animated-name {
+    color: #8B0000 !important; /* Rouge bordeaux */
+    font-size: 2.5rem !important;
+    font-weight: 700;
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+    margin: 0.5rem 0;
+}
 
+/* Animation typewriter */
+.home__title.animated-name::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: linear-gradient(90deg, transparent, rgba(139, 0, 0, 0.2), transparent);
+    animation: typewriter 3s steps(25) 1s forwards, blink 0.75s step-end infinite;
+}
+
+@keyframes typewriter {
+    to { 
+        width: 100%; 
+    }
+}
+
+@keyframes blink {
+    from, to { 
+        background-color: transparent 
+    }
+    50% { 
+        background-color: rgba(139, 0, 0, 0.3); 
+    }
+}
+
+/* Animation d'apparition */
+@keyframes nameReveal {
+    0% {
+        opacity: 0;
+        transform: translateY(30px);
+        color: transparent;
+        text-shadow: 0 0 10px rgba(139, 0, 0, 0.5);
+    }
+    50% {
+        opacity: 0.5;
+        transform: translateY(15px);
+        color: rgba(139, 0, 0, 0.3);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+        color: #8B0000;
+    }
+}
+
+.home__title.animated-name {
+    animation: nameReveal 2s ease-out forwards;
+}
+
+/* Taille responsive */
+@media screen and (max-width: 767px) {
+    .home__title.animated-name {
+        font-size: 2rem !important;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .home__title.animated-name {
+        font-size: 3rem !important;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .home__title.animated-name {
+        font-size: 3.5rem !important;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .home__title.animated-name {
+        font-size: 4rem !important;
+    }
+}
 .home__img-container {
   grid-area: image;
   position: relative;
@@ -1349,3 +1434,4 @@ img {
     height: 550px;
   }
 }
+
